@@ -4,7 +4,7 @@ title: About Me
 permalink: /about
 ---
 
-Hi, Jello here, welcome to my homepage! I'm a freshman at Princeton studying physics. I also do other things sometimes, such as listening to sound waves (digital radio), spending time outside my room (ski touring), and thinking (this one is more questionable). I also spend some time trying to make this website look pretty. 
+Hi, Jello here, welcome to my homepage! I'm a freshman at Princeton studying physics. I also do other things sometimes, which will be added later to this site. I also spend some time trying to make this website look pretty. 
  
 <!-- I'm also a digital radio enthusiast, aspiring alpinist, and wannabe person who thinks thoughts. Here, I post about my thoughts and projects. But mostly, I do nothing and try to make the website pretty. -->
 
