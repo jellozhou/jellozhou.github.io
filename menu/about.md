@@ -3,11 +3,10 @@ layout: page
 title: About Me
 permalink: /about
 ---
+Currently, I am a senior at Princeton University studying physics with minors in applied math, philosophy, and quantiative biology. I am broadly interested in developing physical models that can be applied to biological contexts. I also have an interest in the philosophy and sociology of science. 
 
-Hi, Jello here, welcome to my homepage! I'm a freshman at Princeton studying physics. I also do other things sometimes, which will be added later to this site. I also spend some time trying to make this website look pretty. 
- 
-<!-- I'm also a digital radio enthusiast, aspiring alpinist, and wannabe person who thinks thoughts. Here, I post about my thoughts and projects. But mostly, I do nothing and try to make the website pretty. -->
-
+<!--In the past, I've worked on a variety of projects ranging from modelling enzyme clustering using phase separation to developing a predictive framework for ice sheet fracturing using granular simulations.-->
+<!-- More specifically, I am currently working on applying ideas from dynamical systems and statistical mechanics to model networks of neurons. -->
 <!-- ### Getting Started -->
 <!--  -->
 <!-- [Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme. -->
