@@ -4,5 +4,5 @@ title: Photos
 permalink: /photos
 ---
 
-A series of photos, in chronological order, with no context. 
+Sometimes I take photos. Here is a link to some photos: https://www.flickr.com/photos/-jello. 
  
