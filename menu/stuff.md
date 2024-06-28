@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Stuff
-permalink: /stuff
+title: Miscellaneous
+permalink: /misc
 ---
-You can find a directory to my projects and writing below. 
+Under construction
